@@ -1,5 +1,5 @@
 # 💫 About Me:
-I love to know much about recently completed python and started web development simultaneously started learning AI 
+I love to know much about AI recently completed python and started web development simultaneously started learning AI 
 
 
 ## 🌐 Socials:
